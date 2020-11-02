@@ -4,3 +4,5 @@ Goodbye!!!
 User is signing up!
 
 Test branch!
+
+Second test message
